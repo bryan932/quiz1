@@ -1,0 +1,11 @@
+body{display:flex;flex-direction:column;min-height:100vh;background:#fff}
+main{flex:1}
+.brand-icon{width:30px;height:30px;background:#0d6efd;color:#fff;border-radius:8px;display:inline-flex;align-items:center;justify-content:center}
+.nav-link{color:#6c757d;cursor:pointer}
+.nav-link.active{color:#000;font-weight:500}
+.ph{background:#e6e4fb;color:#7b6cf6;display:flex;align-items:center;justify-content:center;font-size:2.5rem}
+.card-x{border:1px solid #dee2e6;border-radius:.5rem}
+.badge-top{position:absolute;top:20px;right:20px;border-radius:50rem;padding:.5rem 1rem;font-size:.85rem;font-weight:600;color:#fff}
+.info-box{background:#f8f9fa;border:1px solid #dee2e6;border-radius:.5rem;padding:1rem 1.25rem}
+.pill{background:#f8f9fa;border:1px solid #dee2e6;border-radius:50rem;padding:.4rem 1rem;font-size:.85rem;font-weight:600}
+.tag{background:#cfe2ff;color:#0d6efd;border-radius:50rem;padding:.3rem 1rem;font-weight:600;font-size:.95rem;display:inline-block}
